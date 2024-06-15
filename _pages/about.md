@@ -10,4 +10,4 @@ redirect_from:
 
 [Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_RLOBOS_OCT_2023.pdf)
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+My research interests include medical imaging, tomography, nonparametric estimation, and inverse problems, with current and past projects in X-ray CT, MRI, PET, SPECT, radiation therapy, and image registration. I am interested both in developing algorithms for these problems, as well as analyzing and predicting the properties of these algorithms. My group works on a wide variety of imaging projects, both for medical imaging and some non-medical imaging problems. For a snapshot of our current research, see recent preprints under the "publication" link above.
