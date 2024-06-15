@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rodrigo A. Lobos"
-  avatar           : "pic_rl_scaled579.jpg"
-  bio              : "Postdoctoral Researcher at University of Michigan <b>rlobos@umich.edu </b>"
+  name             : "Jeffrey A. Fessler"
+  avatar           : "jeff_profile.jpg"
+  bio              : "William L. Root Collegiate Professor of EECS at University of Michigan <b>fessler@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=J5f4Gq8AAAAJ&hl=en"
   email            : #"rlobos@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
