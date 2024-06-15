@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on [Google Scholar]([https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=J5f4Gq8AAAAJ)).
+  You can also find my articles on <br>[Google Scholar](https://scholar.google.com/citations?user=J5f4Gq8AAAAJ&hl=en&oi=ao)<br>.
   
 {% include base_path %}
 
@@ -14,7 +14,7 @@ author_profile: true
 
 <b>Books</b>
 ======
-* <b>J. A. Fessler</b>, R. R. Nadakuditi.  <br>[Linear Algebra for Data Science, Machine Learning, and Signal Processing]([https://sipi.usc.edu/reports/abstracts.php?rid=sipi-458](https://www.cambridge.org/highereducation/books/linear-algebra-for-data-science-machine-learning-and-signal-processing/1D558680AF26ED577DBD9C4B5F1D0FED#overview))<br><em> Cambridge University Press, May 2024.</em>
+* <b>J. A. Fessler</b>, R. R. Nadakuditi.  <br>[Linear Algebra for Data Science, Machine Learning, and Signal Processing](https://www.cambridge.org/highereducation/books/linear-algebra-for-data-science-machine-learning-and-signal-processing/1D558680AF26ED577DBD9C4B5F1D0FED#overview)<br><em> Cambridge University Press, May 2024.</em>
 
 <b>Journal</b>
 ======
