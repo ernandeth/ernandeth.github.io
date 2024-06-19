@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_RLOBOS_OCT_2023.pdf)
+[Curriculum Vitae (CV)](https://ernandeth.github.io/files/Hernandez_cv_acad.pdf)
 
-My research interests include medical imaging, tomography, nonparametric estimation, and inverse problems, with current and past projects in X-ray CT, MRI, PET, SPECT, radiation therapy, and image registration. I am interested both in developing algorithms for these problems, as well as analyzing and predicting the properties of these algorithms. My group works on a wide variety of imaging projects, both for medical imaging and some non-medical imaging problems. For a snapshot of our current research, see recent preprints under the "publication" link above. 
+Welcome to my github page!
+
+Myresearch interests are focused on developing and integrating techniques for the study of brain function.
+
+I have been involved in BOLD (Blood Oxygenation Level Dependent) and ASL (Arterial Spin Labeling) Functional MRI research for a number of years. Primarily, I have been developing ASL methods for  imaging cerebral perfusion quantitatively. Why is perfusion so interesting? The answer is that perfusion is an indicator of brain function and therefore a very valuable tool, not just for the clinician, but also for the neuroscientist and psychologist. 
+
+I am currently working on kinetic models for quantifying the ASL signal, and techniques that will improve the SNR and temporal resolution of perfusion measurements.  These include new image sampling and reconstruction techniques.
+
+I'm also working on developing methods for non-invasive brain stimulation techniques. I have worked on the design and analysis of transcranial magnetic stimulation (TMS) devices, and I'm also active in the development of focused ultrasound neuromodulation technology.
+
+Finally, I also collaborate tightly with research groups in psychology and neurology in the study of attention, memory, pain and depression.
