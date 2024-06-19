@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+N.B. -THIS PAGE IS UNDER CONSTRUCTION!
+
 [Curriculum Vitae (CV)](https://ernandeth.github.io/files/Hernandez_cv_acad.pdf)
 
 Welcome to my github page!
