@@ -10,7 +10,7 @@ redirect_from:
 
 N.B. -THIS PAGE IS UNDER CONSTRUCTION!
 
-[Curriculum Vitae (CV)](https://ernandeth.github.io/files/Hernandez_cv_acad.pdf)
+[Curriculum Vitae (CV)](https://ernandeth.github.io/Hernandez_cv_acad.pdf)
 
 Welcome to my github page!
 
